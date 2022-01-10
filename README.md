@@ -55,6 +55,16 @@ Result:
 ## 6.My task vidio link:
 
     https://youtu.be/vosWh4eSCRQ![image](https://user-images.githubusercontent.com/96793141/148740249-6a143798-da27-4172-841f-33a3c7eb5dc0.png)
+    
+## 7.Relevant information:
+
+    https://www.docker.com/blog/the-grace-period-for-the-docker-subscription-service-agreement-ends-soon-heres-what-you-need-to-know/
+    
+    https://hub.docker.com/
+    
+    (Chinese):https://www.cnblogs.com/sparkdev/p/9787915.html
+    
+    
 
     
 
